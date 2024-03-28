@@ -1,11 +1,11 @@
 // website => mdn web doc
 
-/*var a=(b,c)=>{
+/*var add=(b,c)=>{
     return b+c;
 }
 
-let oore = (a) => {
-    return a%2 == 0 ? "even" : "odd"
+let oore = (add) => {
+    return add%2 == 0 ? "even" : "odd"
  }
  
  const sum=a=>a+2             // we can use this function with no round brackets
